@@ -1,0 +1,771 @@
+{
+    "Boat Pose or Paripurna Navasana": {
+        "right_hand": {
+            "median": 159.63,
+            "iqr": 16.880000000000024,
+            "samples": 123
+        },
+        "left_hand": {
+            "median": 159.09,
+            "iqr": 16.11499999999998,
+            "samples": 123
+        },
+        "right_arm_body": {
+            "median": 50.79,
+            "iqr": 20.105000000000004,
+            "samples": 123
+        },
+        "left_arm_body": {
+            "median": 48.3,
+            "iqr": 21.394999999999996,
+            "samples": 123
+        },
+        "right_leg_body": {
+            "median": 59.46,
+            "iqr": 18.81499999999999,
+            "samples": 123
+        },
+        "left_leg_body": {
+            "median": 58.96,
+            "iqr": 19.500000000000014,
+            "samples": 123
+        },
+        "right_leg": {
+            "median": 166.4,
+            "iqr": 38.870000000000005,
+            "samples": 123
+        },
+        "left_leg": {
+            "median": 167.81,
+            "iqr": 31.39500000000001,
+            "samples": 123
+        }
+    },
+    "Bound Angle Pose or Baddha Konasana": {
+        "right_hand": {
+            "median": 169.65,
+            "iqr": 15.219999999999999,
+            "samples": 112
+        },
+        "left_hand": {
+            "median": 168.565,
+            "iqr": 16.922500000000014,
+            "samples": 112
+        },
+        "right_arm_body": {
+            "median": 8.370000000000001,
+            "iqr": 10.68,
+            "samples": 112
+        },
+        "left_arm_body": {
+            "median": 8.58,
+            "iqr": 9.12,
+            "samples": 112
+        },
+        "right_leg_body": {
+            "median": 80.035,
+            "iqr": 16.950000000000017,
+            "samples": 112
+        },
+        "left_leg_body": {
+            "median": 82.37,
+            "iqr": 18.752499999999998,
+            "samples": 112
+        },
+        "right_leg": {
+            "median": 21.3,
+            "iqr": 13.2075,
+            "samples": 112
+        },
+        "left_leg": {
+            "median": 22.689999999999998,
+            "iqr": 14.417500000000004,
+            "samples": 112
+        }
+    },
+    "Bridge Pose or Setu Bandha Sarvangasana": {
+        "right_hand": {
+            "median": 171.10500000000002,
+            "iqr": 14.050000000000011,
+            "samples": 106
+        },
+        "left_hand": {
+            "median": 170.03,
+            "iqr": 10.257499999999993,
+            "samples": 106
+        },
+        "right_arm_body": {
+            "median": 50.29,
+            "iqr": 19.417499999999997,
+            "samples": 106
+        },
+        "left_arm_body": {
+            "median": 53.004999999999995,
+            "iqr": 19.955,
+            "samples": 106
+        },
+        "right_leg_body": {
+            "median": 157.84,
+            "iqr": 20.92500000000001,
+            "samples": 106
+        },
+        "left_leg_body": {
+            "median": 160.185,
+            "iqr": 20.05250000000001,
+            "samples": 106
+        },
+        "right_leg": {
+            "median": 69.35,
+            "iqr": 15.262500000000003,
+            "samples": 106
+        },
+        "left_leg": {
+            "median": 68.01499999999999,
+            "iqr": 15.080000000000005,
+            "samples": 106
+        }
+    },
+    "Camel Pose or Ustrasana": {
+        "right_hand": {
+            "median": 168.41,
+            "iqr": 10.349999999999994,
+            "samples": 117
+        },
+        "left_hand": {
+            "median": 168.33,
+            "iqr": 10.349999999999994,
+            "samples": 117
+        },
+        "right_arm_body": {
+            "median": 57.36,
+            "iqr": 16.230000000000004,
+            "samples": 117
+        },
+        "left_arm_body": {
+            "median": 55.17,
+            "iqr": 16.07,
+            "samples": 117
+        },
+        "right_leg_body": {
+            "median": 115.53,
+            "iqr": 17.519999999999996,
+            "samples": 117
+        },
+        "left_leg_body": {
+            "median": 113.88,
+            "iqr": 18.179999999999993,
+            "samples": 117
+        },
+        "right_leg": {
+            "median": 92.16,
+            "iqr": 17.409999999999997,
+            "samples": 117
+        },
+        "left_leg": {
+            "median": 91.21,
+            "iqr": 16.72999999999999,
+            "samples": 117
+        }
+        
+    },
+    "Cat Cow Pose or Marjaryasana": {
+        "right_hand": {
+            "median": 174.83,
+            "iqr": 4.420000000000016,
+            "samples": 197
+        },
+        "left_hand": {
+            "median": 174.39,
+            "iqr": 4.170000000000016,
+            "samples": 197
+        },
+        "right_arm_body": {
+            "median": 73.28,
+            "iqr": 14.049999999999997,
+            "samples": 197
+        },
+        "left_arm_body": {
+            "median": 73.59,
+            "iqr": 12.569999999999993,
+            "samples": 197
+        },
+        "right_leg_body": {
+            "median": 107.97,
+            "iqr": 17.159999999999997,
+            "samples": 197
+        },
+        "left_leg_body": {
+            "median": 107.73,
+            "iqr": 15.079999999999998,
+            "samples": 197
+        },
+        "right_leg": {
+            "median": 87.15,
+            "iqr": 13.25,
+            "samples": 197
+        },
+        "left_leg": {
+            "median": 87.48,
+            "iqr": 11.36999999999999,
+            "samples": 197
+        }
+    },
+    "Chair Pose or Utkatasana": {
+        "right_hand": {
+            "median": 166.92,
+            "iqr": 12.5,
+            "samples": 89
+        },
+        "left_hand": {
+            "median": 168.9,
+            "iqr": 8.26000000000002,
+            "samples": 89
+        },
+        "right_arm_body": {
+            "median": 170.46,
+            "iqr": 16.549999999999983,
+            "samples": 89
+        },
+        "left_arm_body": {
+            "median": 170.47,
+            "iqr": 17.389999999999986,
+            "samples": 89
+        },
+        "right_leg_body": {
+            "median": 93.41,
+            "iqr": 36.09,
+            "samples": 89
+        },
+        "left_leg_body": {
+            "median": 94.86,
+            "iqr": 39.16000000000001,
+            "samples": 89
+        },
+        "right_leg": {
+            "median": 89.79,
+            "iqr": 26.47,
+            "samples": 89
+        },
+        "left_leg": {
+            "median": 93.17,
+            "iqr": 31.299999999999997,
+            "samples": 89
+        }
+        
+    },
+    "Cobra Pose or Bhujangasana": {
+        "right_hand": {
+            "median": 169.35,
+            "iqr": 30.830000000000013,
+            "samples": 401
+        },
+        "left_hand": {
+            "median": 169.76,
+            "iqr": 34.0,
+            "samples": 401
+        },
+        "right_arm_body": {
+            "median": 17.99,
+            "iqr": 17.11,
+            "samples": 401
+        },
+        "left_arm_body": {
+            "median": 18.43,
+            "iqr": 17.46,
+            "samples": 401
+        },
+        "right_leg_body": {
+            "median": 126.35,
+            "iqr": 18.249999999999986,
+            "samples": 401
+        },
+        "left_leg_body": {
+            "median": 126.91,
+            "iqr": 18.189999999999998,
+            "samples": 401
+        },
+        "right_leg": {
+            "median": 169.36,
+            "iqr": 14.5,
+            "samples": 401
+        },
+        "left_leg": {
+            "median": 168.71,
+            "iqr": 12.689999999999998,
+            "samples": 401
+        }
+        
+    },
+    "Dolphin Plank Pose or Makara Adho Mukha Svanasana": {
+        "right_hand": {
+            "median": 92.88,
+            "iqr": 15.450000000000003,
+            "samples": 30
+        },
+        "left_hand": {
+            "median": 96.69,
+            "iqr": 18.400000000000006,
+            "samples": 30
+        },
+        "right_arm_body": {
+            "median": 82.41499999999999,
+            "iqr": 13.735000000000014,
+            "samples": 30
+        },
+        "left_arm_body": {
+            "median": 81.91,
+            "iqr": 13.945000000000007,
+            "samples": 30
+        },
+        "right_leg_body": {
+            "median": 167.365,
+            "iqr": 10.835000000000008,
+            "samples": 30
+        },
+        "left_leg_body": {
+            "median": 166.87,
+            "iqr": 9.887500000000017,
+            "samples": 30
+        },
+        "right_leg": {
+            "median": 174.365,
+            "iqr": 7.969999999999999,
+            "samples": 30
+        },
+        "left_leg": {
+            "median": 174.13,
+            "iqr": 8.227499999999992,
+            "samples": 30
+        }
+        
+    },
+    "Downward-Facing Dog pose or Adho Mukha Svanasana": {
+        "right_hand": {
+            "median": 166.8,
+            "iqr": 11.099999999999994,
+            "samples": 153
+        },
+        "left_hand": {
+            "median": 166.61,
+            "iqr": 10.490000000000009,
+            "samples": 153
+        },
+        "right_arm_body": {
+            "median": 171.76,
+            "iqr": 10.840000000000003,
+            "samples": 153
+        },
+        "left_arm_body": {
+            "median": 171.48,
+            "iqr": 11.95999999999998,
+            "samples": 153
+        },
+        "right_leg_body": {
+            "median": 57.49,
+            "iqr": 14.689999999999998,
+            "samples": 153
+        },
+        "left_leg_body": {
+            "median": 58.48,
+            "iqr": 14.100000000000001,
+            "samples": 153
+        },
+        "right_leg": {
+            "median": 175.92,
+            "iqr": 5.099999999999994,
+            "samples": 153
+        },
+        "left_leg": {
+            "median": 176.17,
+            "iqr": 4.369999999999976,
+            "samples": 153
+        }
+        
+    },
+    "Extended Revolved Side Angle Pose or Utthita Parsvakonasana": {
+        "right_hand": {
+            "median": 167.845,
+            "iqr": 30.952500000000015,
+            "samples": 374
+        },
+        "left_hand": {
+            "median": 167.63,
+            "iqr": 23.727499999999992,
+            "samples": 374
+        },
+        "right_arm_body": {
+            "median": 68.995,
+            "iqr": 93.6875,
+            "samples": 374
+        },
+        "left_arm_body": {
+            "median": 70.495,
+            "iqr": 115.1375,
+            "samples": 374
+        },
+        "right_leg_body": {
+            "median": 67.105,
+            "iqr": 122.0,
+            "samples": 374
+        },
+        "left_leg_body": {
+            "median": 156.75,
+            "iqr": 106.7975,
+            "samples": 374
+        },
+        "right_leg": {
+            "median": 116.37,
+            "iqr": 71.64500000000001,
+            "samples": 374
+        },
+        "left_leg": {
+            "median": 169.71,
+            "iqr": 58.24749999999999,
+            "samples": 374
+        }
+        
+    },
+    "Extended Revolved Triangle Pose or Utthita Trikonasana": {
+        "right_hand": {
+            "median": 171.59,
+            "iqr": 10.109999999999985,
+            "samples": 359
+        },
+        "left_hand": {
+            "median": 173.33,
+            "iqr": 8.275000000000006,
+            "samples": 359
+        },
+        "right_arm_body": {
+            "median": 101.93,
+            "iqr": 23.790000000000006,
+            "samples": 359
+        },
+        "left_arm_body": {
+            "median": 100.75,
+            "iqr": 23.545,
+            "samples": 359
+        },
+        "right_leg_body": {
+            "median": 86.12,
+            "iqr": 72.34500000000001,
+            "samples": 359
+        },
+        "left_leg_body": {
+            "median": 118.62,
+            "iqr": 68.22000000000001,
+            "samples": 359
+        },
+        "right_leg": {
+            "median": 175.24,
+            "iqr": 5.814999999999998,
+            "samples": 359
+        },
+        "left_leg": {
+            "median": 174.8,
+            "iqr": 6.6699999999999875,
+            "samples": 359
+        }
+        
+    },
+    "Gate Pose or Parighasana": {
+        "right_hand": {
+            "median": 167.63,
+            "iqr": 13.227499999999964,
+            "samples": 86
+        },
+        "left_hand": {
+            "median": 161.745,
+            "iqr": 17.94750000000002,
+            "samples": 86
+        },
+        "right_arm_body": {
+            "median": 90.305,
+            "iqr": 104.29,
+            "samples": 86
+        },
+        "left_arm_body": {
+            "median": 145.93,
+            "iqr": 103.4,
+            "samples": 86
+        },
+        "right_leg_body": {
+            "median": 119.48,
+            "iqr": 63.81750000000001,
+            "samples": 86
+        },
+        "left_leg_body": {
+            "median": 136.20499999999998,
+            "iqr": 69.41749999999999,
+            "samples": 86
+        },
+        "right_leg": {
+            "median": 143.025,
+            "iqr": 120.6275,
+            "samples": 86
+        },
+        "left_leg": {
+            "median": 145.62,
+            "iqr": 143.9675,
+            "samples": 86
+        }
+        
+    },
+    "Low Lunge pose or Anjaneyasana": {
+        "right_hand": {
+            "median": 165.35,
+            "iqr": 15.269999999999982,
+            "samples": 121
+        },
+        "left_hand": {
+            "median": 165.29,
+            "iqr": 13.899999999999977,
+            "samples": 121
+        },
+        "right_arm_body": {
+            "median": 164.01,
+            "iqr": 92.89000000000001,
+            "samples": 121
+        },
+        "left_arm_body": {
+            "median": 162.99,
+            "iqr": 57.22,
+            "samples": 121
+        },
+        "right_leg_body": {
+            "median": 89.21,
+            "iqr": 53.5,
+            "samples": 121
+        },
+        "left_leg_body": {
+            "median": 119.42,
+            "iqr": 41.30999999999999,
+            "samples": 121
+        },
+        "right_leg": {
+            "median": 72.41,
+            "iqr": 54.64,
+            "samples": 121
+        },
+        "left_leg": {
+            "median": 123.47,
+            "iqr": 50.92999999999999,
+            "samples": 121
+        }
+        
+    },
+    "Plank Pose or Kumbhakasana": {
+        "right_hand": {
+            "median": 174.93,
+            "iqr": 4.119999999999976,
+            "samples": 41
+        },
+        "left_hand": {
+            "median": 174.95,
+            "iqr": 6.25,
+            "samples": 41
+        },
+        "right_arm_body": {
+            "median": 63.87,
+            "iqr": 13.770000000000003,
+            "samples": 41
+        },
+        "left_arm_body": {
+            "median": 63.24,
+            "iqr": 14.120000000000005,
+            "samples": 41
+        },
+        "right_leg_body": {
+            "median": 172.07,
+            "iqr": 13.889999999999986,
+            "samples": 41
+        },
+        "left_leg_body": {
+            "median": 171.17,
+            "iqr": 14.129999999999995,
+            "samples": 41
+        },
+        "right_leg": {
+            "median": 173.63,
+            "iqr": 6.569999999999993,
+            "samples": 41
+        },
+        "left_leg": {
+            "median": 175.34,
+            "iqr": 5.300000000000011,
+            "samples": 41
+        }
+    },
+    "Sitting pose 1 (normal)": {
+        "right_hand": {
+            "median": 150.48,
+            "iqr": 42.08500000000001,
+            "samples": 370
+        },
+        "left_hand": {
+            "median": 151.9,
+            "iqr": 41.422500000000014,
+            "samples": 370
+        },
+        "right_arm_body": {
+            "median": 20.265,
+            "iqr": 17.7725,
+            "samples": 370
+        },
+        "left_arm_body": {
+            "median": 21.18,
+            "iqr": 17.244999999999997,
+            "samples": 370
+        },
+        "right_leg_body": {
+            "median": 94.22,
+            "iqr": 28.9675,
+            "samples": 370
+        },
+        "left_leg_body": {
+            "median": 94.32499999999999,
+            "iqr": 26.957499999999996,
+            "samples": 370
+        },
+        "right_leg": {
+            "median": 23.615000000000002,
+            "iqr": 21.514999999999997,
+            "samples": 370
+        },
+        "left_leg": {
+            "median": 23.515,
+            "iqr": 23.802500000000002,
+            "samples": 370
+        }
+        
+    },
+    "Tree Pose or Vrksasana": {
+        "right_hand": {
+            "median": 114.82,
+            "iqr": 115.23999999999998,
+            "samples": 153
+        },
+        "left_hand": {
+            "median": 115.14,
+            "iqr": 111.08999999999999,
+            "samples": 153
+        },
+        "right_arm_body": {
+            "median": 148.27,
+            "iqr": 129.54,
+            "samples": 153
+        },
+        "left_arm_body": {
+            "median": 149.37,
+            "iqr": 129.91,
+            "samples": 153
+        },
+        "right_leg_body": {
+            "median": 136.01,
+            "iqr": 62.78999999999999,
+            "samples": 153
+        },
+        "left_leg_body": {
+            "median": 168.12,
+            "iqr": 61.08,
+            "samples": 153
+        },
+        "right_leg": {
+            "median": 43.41,
+            "iqr": 148.58,
+            "samples": 153
+        },
+        "left_leg": {
+            "median": 171.98,
+            "iqr": 148.25,
+            "samples": 153
+        }
+        
+    },
+    "Virasana or Vajrasana": {
+        "right_hand": {
+            "median": 143.195,
+            "iqr": 35.775000000000006,
+            "samples": 176
+        },
+        "left_hand": {
+            "median": 147.095,
+            "iqr": 34.170000000000016,
+            "samples": 176
+        },
+        "right_arm_body": {
+            "median": 13.239999999999998,
+            "iqr": 20.5325,
+            "samples": 176
+        },
+        "left_arm_body": {
+            "median": 14.51,
+            "iqr": 18.950000000000003,
+            "samples": 176
+        },
+        "right_leg_body": {
+            "median": 115.31,
+            "iqr": 27.24999999999997,
+            "samples": 176
+        },
+        "left_leg_body": {
+            "median": 111.49000000000001,
+            "iqr": 22.689999999999998,
+            "samples": 176
+        },
+        "right_leg": {
+            "median": 23.14,
+            "iqr": 16.3825,
+            "samples": 176
+        },
+        "left_leg": {
+            "median": 22.625,
+            "iqr": 17.2675,
+            "samples": 176
+        }
+        
+    },
+    "Warrior II Pose or Virabhadrasana II": {
+        "right_hand": {
+            "median": 174.72,
+            "iqr": 8.837500000000034,
+            "samples": 194
+        },
+        "left_hand": {
+            "median": 173.935,
+            "iqr": 8.507500000000022,
+            "samples": 194
+        },
+        "right_arm_body": {
+            "median": 98.21000000000001,
+            "iqr": 16.370000000000005,
+            "samples": 194
+        },
+        "left_arm_body": {
+            "median": 96.375,
+            "iqr": 14.192499999999995,
+            "samples": 194
+        },
+        "right_leg_body": {
+            "median": 117.195,
+            "iqr": 35.065,
+            "samples": 194
+        },
+        "left_leg_body": {
+            "median": 129.60500000000002,
+            "iqr": 31.63749999999999,
+            "samples": 194
+        },
+        "right_leg": {
+            "median": 125.92500000000001,
+            "iqr": 63.82999999999997,
+            "samples": 194
+        },
+        "left_leg": {
+            "median": 172.83,
+            "iqr": 58.735,
+            "samples": 194
+        }
+        
+    }
+}
